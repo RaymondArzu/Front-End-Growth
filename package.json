@@ -1,0 +1,19 @@
+{
+  "name": "front-end-growth",
+  "version": "1.0.0",
+  "description": "This is to track the growth of myself becoming a Front-End Web Developer.\r first react submitted on 3/31/2021 here",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaymondArzu/Front-End-Growth.git"
+  },
+  "author": "Raymond E. Arzu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaymondArzu/Front-End-Growth/issues"
+  },
+  "homepage": "https://github.com/RaymondArzu/Front-End-Growth#readme"
+}
