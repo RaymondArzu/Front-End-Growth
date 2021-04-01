@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RaymondArzu/Front-End-Growth/issues"
   },
-  "homepage": "https://github.com/RaymondArzu/Front-End-Growth#readme"
+  "homepage": "https://github.com/RaymondArzu/Front-End-Growth#readme",
+  "dependencies": {
+    "is-svg": "^4.3.1"
+  }
 }
